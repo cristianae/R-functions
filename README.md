@@ -14,7 +14,8 @@ Cristiana Eagen
 - `mymaxlikg.R`: This function computes the maximum likelihood estimate for a given likelihood function over a range of theta values.
 - `mycltp.R`: This function demonstrates the Central Limit Theorem. It gets random samples from a Poisson distribution, calculates the sample means, and generates histograms of these means. It also compares the sample distribution to a theoretical normal distribution and includes a bar plot of the sampled Poisson values.
 - `mypvalue.R`: This function calculates the p-value, displays the corresponding t-distribution, and gives the graph with the p-value areas.
-- `myci.R`: This function calculates a (1 - alpha) * 100% confidence interval for the mean of a single sample
+- `myci.R`: This function calculates a (1 - alpha) * 100% confidence interval for the mean of a single sample.
+- `myncurve.R`: Displays a normal curve, shades the area from −∞ to a given x-value, and returns the probability P(X ≤ a).
 
 ## How to run the code:
 - Clone this repository
