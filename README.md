@@ -1,5 +1,5 @@
-# R-functions-MATH-4753
-This program consists of R functions that compute statistical concepts such as confidence intervals, p-values, maximum likelihood estimation, and optimal overbooking thresholds. This was created for my MATH 4753 (Applied Statistical Methods) course. 
+# R-functions
+This program consists of R functions that compute statistical concepts such as confidence intervals, p-values, maximum likelihood estimation, and optimal overbooking thresholds. This was created for my (Applied Statistical Methods) course. 
 
 ## Author:
 Cristiana Eagen
